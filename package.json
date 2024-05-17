@@ -1,0 +1,25 @@
+{
+  "name": "date-formatter",
+  "version": "1.0.0",
+  "description": "A simple Node.js library for formatting dates.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/date-formatter.git"
+  },
+  "keywords": [
+    "date",
+    "formatter",
+    "nodejs",
+    "library"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/date-formatter/issues"
+  },
+  "homepage": "https://github.com/yourusername/date-formatter#readme"
+}
