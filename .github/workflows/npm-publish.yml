@@ -18,6 +18,10 @@ jobs:
           node-version: 20
       - run: npm i
       - run: npm test
+      - name: Authenticate with npm
+        run: echo "//registry.npmjs.org/:_authToken=\${NPM_AUTH_TOKEN}" > ~/.npmrc
+        env:
+          NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
 
   publish-npm:
     needs: build
