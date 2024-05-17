@@ -1,6 +1,6 @@
 {
-  "name": "date-formatter",
-  "version": "1.0.1",
+  "name": "date-formatter-lts",
+  "version": "1.0.0",
   "description": "A simple Node.js library for formatting dates.",
   "main": "src/index.js",
   "scripts": {
