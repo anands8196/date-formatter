@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/date-formatter.git"
+    "url": "git+https://github.com/anands8196/date-formatter.git"
   },
   "keywords": [
     "date",
@@ -16,10 +16,10 @@
     "nodejs",
     "library"
   ],
-  "author": "Your Name",
+  "author": "anands8196",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/date-formatter/issues"
+    "url": "https://github.com/anands8196/date-formatter/issues"
   },
-  "homepage": "https://github.com/yourusername/date-formatter#readme"
+  "homepage": "https://github.com/anands8196/date-formatter#readme"
 }
