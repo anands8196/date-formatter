@@ -1,4 +1,4 @@
-# Date Formatter
+# Date Formatter test
 
 A simple Node.js library for formatting dates.
 
